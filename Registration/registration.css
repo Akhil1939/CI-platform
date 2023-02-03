@@ -4,3 +4,25 @@ max-height: 683px;
 .registration-form{
     max-width: 417px;
 }
+.carousel-caption h1{
+    font-family: "Noto Sans", sans-serif;
+    font-weight: bold;
+    font-size: 43px;
+}
+.carousel-caption p{
+    font-family: "Noto Sans", sans-serif;
+    font-size: 17px;
+}
+.form-control{
+    height: 48px;
+
+}
+.form-label{
+    font-family: "Noto Sans", sans-serif;
+    font-size: 17px;
+}
+.policy, .optional-links{
+    font-family: "Noto Sans", sans-serif;
+    font-size: 15px;
+
+}
